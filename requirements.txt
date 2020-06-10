@@ -9,3 +9,4 @@ pypandoc
 pytest-benchmark
 pytest-docker-pexpect
 twine
+git+git://github.com/testandconquer/pytest-conquer.git@master#egg=pytest-conquer
